@@ -1,0 +1,59 @@
+version: "3.8"
+services:
+  swag:
+    image: ghcr.io/linuxserver/swag:version-1.16.0
+    container_name: swag
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - TZ=Europe/London
+      - URL=inserturlhere.com
+      - VALIDATION=http
+      - EMAIL=email@address.com
+      - ONLY_SUBDOMAINS=false
+      - STAGING=false #optional
+    volumes:
+      - type: bind
+        source: ./swag
+        target: /config             
+    ports:
+      - 443:443
+      - 80:80 #optional
+    restart: unless-stopped  
+
+  waltonpedia:
+    image: lscr.io/linuxserver/bookstack
+    container_name: waltonpedia
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - APP_URL=inserturl.com
+      - DB_HOST=waltonpedia_db
+      - DB_USER=bookstack
+      - DB_PASS=insertdbpassword
+      - DB_DATABASE=bookstackapp
+    volumes:
+      - type: bind
+        source: ./waltonpedia/config
+        target: /config
+    ports:
+      - 6876:80
+    restart: unless-stopped
+    depends_on:
+      - waltonpedia_db
+  waltonpedia_db:
+    image: lscr.io/linuxserver/mariadb
+    container_name: waltonpedia_db
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - MYSQL_ROOT_PASSWORD=insertsamepasswordhere
+      - TZ=Europe/London
+      - MYSQL_DATABASE=bookstackapp
+      - MYSQL_USER=bookstack
+      - MYSQL_PASSWORD=insertsamepasswordhere
+    volumes:
+      - type: bind
+        source: ./waltonpedia/db
+        target: /config
+    restart: unless-stopped
