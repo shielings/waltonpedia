@@ -15,7 +15,7 @@ The information needed to work at this hospital was previously fragmeneted betwe
 ### To-do
 ✅Access from a private domain
 
-⬜Email server for user registration and password resets
+✅Email server for user registration and password resets
 
 ⬜Analytics server with public access to usage data
 
