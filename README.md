@@ -13,9 +13,11 @@ The information needed to work at this hospital was previously fragmeneted betwe
 - Highly auditable - every update to every page is kept and labelled with the author's name
 
 ### To-do
-- [x]Login from a private domain
-- [ ]Email server for user registration and password resets
-- [ ]Analytics server with public access to usage data
+✅Access from a private domain
+
+⬜Email server for user registration and password resets
+
+⬜Analytics server with public access to usage data
 
 ### How can I recreate this?
 In case of a problem with Waltonpedia or staff changes, the system can be recreated with the following steps:
