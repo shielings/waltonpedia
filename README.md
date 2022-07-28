@@ -1,6 +1,6 @@
 # Waltonpedia
 
-## A wiki for doctors working at The Walton Centre
+## A wiki for neurology doctors working at The Walton Centre
 
 ### Why?
 The information needed to work at this hospital was previously fragmeneted between the intranet, emails, induction paperwork, posters and word-of mouth. This project aims to bridge these means to provide a rapid, accurate source of information.
