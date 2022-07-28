@@ -12,14 +12,14 @@ The information needed to work at this hospital was previously fragmeneted betwe
 - Pervasive and consistent - no "this is an old PDF" found in an email
 - Highly auditable - every update to every page is kept and labelled with the author's name
 
-|                     |  Intranet | Emails | Pinboards | Word-of-mouth | Waltonpedia |
-|---------------------|:---------:|------:|:----------:|--------------:|:-----------:|
-| Ease of access      | ❌        | ✅   |            |               | ✅           |              
-| Ease of updating    | ❌        | ✅   |            |               | ✅           |
-| Accuracy            | ❓        | ❓   |            |               | ✅           |
-| Relevance           | ❌        | ✅   |            |               | ✅           |
-| Clinical governance | ✅        | ❌   |            |               | ✅           |
-| Audit trail         | ❌        | ✅   |            |               | ✅           |
+|                     |  Intranet | Emails | Pinboards  | Word-of-mouth | Waltonpedia |
+|---------------------|:---------:|:------:|:----------:|:--------------:|:-----------:|
+| Ease of access      | ❌        | ✅   | ❌         | ❌            | ✅           |              
+| Ease of updating    | ❌        | ✅   | ✅         | ✅            | ✅           |
+| Accuracy            | ❌        | ❌   | ❌         | ✅            | ✅           |
+| Relevance           | ❌        | ✅   | ✅         | ✅            | ✅           |
+| Clinical governance | ✅        | ❌   | ❌         | ❌            | ✅           |
+| Audit trail         | ❌        | ✅   | ❌         | ❌            | ✅           |
 
 ### To-do
 ✅Access from a private domain
