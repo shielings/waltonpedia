@@ -7,6 +7,8 @@
 ### Why?
 Clinical neurology requires many different tests, treatments and procedures. These can be complicated to organise because they involve outside hospitals and labs. The methods often change and can be hard to keep track of. The information required to manage these is split between the traditional means of clinical handover - intranet, emails, pinboards and word-of-mouth. It can be daunting for a new junior doctor to assimilate all of this information.
 
+There are also lots of ancillary pieces of information such as teaching schedules, information about specific firms and clinics that are distributed adhoc via email. These could also benfit from consolidation into a central repository.
+
 ### Our solution
 A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by its users. It can be hosted on the open internet with certain privileges (editing or viewing sensitive information) being locked behind a login requiring a Walton Centre email address.
 
@@ -15,7 +17,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 - (Mostly) Open - public access for non-sensitive data
 - Editable by any Walton Centre staff willing to make improvements
 - Pervasive (access from anywhere with internet, on any device with a web browser)
-- Consistent - no more "this is an old PDF" found in an email
+- Consistent - no more "old PDFs" found in emails
 - Highly auditable - every update to every page is kept and labelled with the author's name. Recent changes are highlighted for scrutiny by other editors.
 - Enjoyable to use which retains a sparkle of our personalities!
 
