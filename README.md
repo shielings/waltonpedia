@@ -12,6 +12,8 @@ There are also lots of ancillary pieces of information such as teaching schedule
 ### Our solution
 A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by its users. It can be hosted on the open internet with certain privileges (editing or viewing sensitive information) being locked behind a login requiring a Walton Centre email address.
 
+This is not a replacement for any of the previous ways of passing on information. They will all work together. For example, the intranet should still be used to access formal guidelines, but you may need to ask someone how to find it. You may need an email to remind you to sign up for grand round on the wiki.
+
 ### What makes this better than the intranet, emails etc...?
 - Rapid access - a short, memorable URL
 - (Mostly) Open - public access for non-sensitive data
