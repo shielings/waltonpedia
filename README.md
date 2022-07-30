@@ -2,7 +2,7 @@
 
 ## A wiki for neurology doctors at The Walton Centre
 
-![alt text](https://raw.githubusercontent.com/shielings/waltonpedia/main/screenshot.png?token=GHSAT0AAAAAABW4MRECWZ2UO7U4D5MVCMPWYXFAEIA)
+![screenshot](https://raw.githubusercontent.com/shielings/waltonpedia/main/screenshot.png?token=GHSAT0AAAAAABW4MRECWZ2UO7U4D5MVCMPWYXFAEIA)
 
 ### Why?
 Clinical neurology requires many different tests, treatments and procedures. These can be complicated to organise because they involve outside hospitals and labs. The methods often change and can be hard to keep track of. The information required to manage these is split between the traditional means of clinical handover - intranet, emails, pinboards and word-of-mouth. It can be daunting for a new junior doctor to assimilate all of this information.
