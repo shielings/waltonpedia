@@ -11,11 +11,12 @@ Clinical neurology requires many different tests, treatments and procedures. The
 A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by its users. It can be hosted on the open internet with certain privileges (editing or viewing sensitive information) being locked behind a login requiring a Walton Centre email address.
 
 ### What makes this better than the intranet, emails etc...?
-- Rapid access - a memorable URL and public access for non-sensitive data
+- Rapid access - a short, memorable URL
+- (Mostly) Open - public access for non-sensitive data
 - Editable by any Walton Centre staff willing to make improvements
 - Pervasive (access from anywhere with internet, on any device with a web browser)
 - Consistent - no more "this is an old PDF" found in an email
-- Highly auditable - every update to every page is kept and labelled with the author's name
+- Highly auditable - every update to every page is kept and labelled with the author's name. Recent changes are highlighted for scrutiny by other editors.
 - Enjoyable to use which retains a sparkle of our personalities!
 
 |                     |  Intranet | Emails | Pinboards  | Word-of-mouth | Waltonpedia |
