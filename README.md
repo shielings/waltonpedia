@@ -15,6 +15,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 This is not a replacement for any of the previous ways of passing on information. They will all work together. For example, the intranet should still be used to access formal guidelines, but you may need to ask someone how to find it. You may need an email to remind you to sign up for grand round on the wiki.
 
 ### What makes this better than the intranet, emails etc...?
+![alt-text](Picture2.png?raw=true)
 - Rapid access access from anywhere with internet, on any device with a web browser using a short, memorable URL - [walton.wiki](walton.wiki)
 - (Mostly) Open - public access for non-sensitive data
 - Editable by any Walton Centre staff willing to make improvements
