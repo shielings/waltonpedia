@@ -6,7 +6,7 @@
 
 
 ### What is this?
-This is a proposed trial use of a wiki to gather and serve the information needed for doctors at The Walton Centre to get work done, similar to a junior doctor's handbook.
+This is a proposed trial use of a wiki to gather and serve the information needed for doctors at The Walton Centre to get work done, similar to a junior doctor's handbook. The website is up and running as of July 2022.
 
 ### Why?
 Doctors working in neurology require information and guidance on many clinical and administrative tasks. Neurological tests, treatments and procedures can be complicated to organise because they involve external hospitals and labs. The methods often change and can be hard to keep track of. The information required to manage these is split between the traditional means of clinical handover - intranet, emails, pinboards and word-of-mouth. Other information, including teaching schedules, specialist rotas and clinic guides is also distributed using these varying means. It can be daunting for a new junior doctor to assimilate all of this information.
@@ -19,9 +19,9 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 - Rapid access access from anywhere with internet, on any device with a web browser using a short, memorable URL - [walton.wiki](https://walton.wiki)
 - (Mostly) Open - public access for non-sensitive data
 - Editable by any Walton Centre staff willing to make improvements
-- Consistent - no more "old PDFs" found in emails
+- Frequently updated and consistent - as opposed to a dated PDF you might find in an email which may or may not have been updated in the interim
 - Highly auditable - every update to every page is kept and labelled with the author's name. Recent changes are highlighted for scrutiny by other editors.
-- User-centric design
+- User-centric design that is enjoyable to use
 
 |                     |  Intranet | Emails | Pinboards  | Word-of-mouth | Waltonpedia |
 |---------------------|:---------:|:------:|:----------:|:--------------:|:-----------:|
@@ -31,15 +31,6 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 | Relevance           | ❌        | ✅   | ✅         | ✅            | ✅           |
 | Clinical governance | ✅        | ❌   | ❌         | ❌            | ✅           |
 | Audit trail         | ❌        | ✅   | ❌         | ❌            | ✅           |
-
-### To-do
-✅Access from the private domain name [walton.wiki](walton.wiki)
-
-✅Email server for secure user registration and password resets
-
-✅Permissive robots.txt
-
-⬜Analytics server with public access to usage data
 
 ### Caveats and clinical governance
 
@@ -52,13 +43,29 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 ### Proposed next steps
 `August 2022` Discuss with seniors to see if a limited trial can be started. Start with interested neurology registrars.
 
-`November 2022` Open up access to selected SHOs with a training session on what Waltonpedia is (and isn't!)
+`October 2022` Open up access to selected SHOs with a training session on what Waltonpedia is (and isn't!)
 
-`February 2023` Open up to all Walton neurology SHOs and neurology registrars
+`January 2023` Open up to all Walton neurology SHOs and neurology registrars
 
 `July 2023` Assess impact formally and see if the service is worth continuing
 
 `Later` Provide content for neurology medical students, consultants and also junior doctors at referring hospitals.
+
+## Technical details
+
+### To-do
+✅Access from the private domain name [walton.wiki](https://walton.wiki)
+
+✅Email server for secure user registration and password resets
+
+⬜Ask for NHS mail SMTP support
+
+✅Permissive robots.txt
+
+⬜Analytics server with public access to usage data
+
+⬜Distributed hosting to ensure resilience
+
 
 ### How can I recreate this?
 In case of a problem with Waltonpedia or staff changes, the system can be recreated with the following steps:
