@@ -78,6 +78,7 @@ In case of a problem with Waltonpedia or staff changes, the system can be recrea
 
 ### Licensing
 This code is licensed under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
 We propose any contributed wiki content to be licensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/)
 
 ### Acknowledgements
