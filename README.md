@@ -70,7 +70,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 ### How can I recreate this?
 In case of a problem with Waltonpedia or staff changes, the system can be recreated with the following steps:
 - Clone this repository
-- Copy the Bookstack data (synchronised to the following people's computers....any volunteers?) to /bookstack
+- Copy the private data (synchronised to the following people's computers....any volunteers?) to /waltonpedia/data
 - Install Docker and docker-compose on a compatible system. I used Ubuntu Server 22.04 on a Dell Poweredge T20 where the command is `sudo apt install docker.io docker-compose`
 - cd into the /waltonpedia folder and run the docker-compose file with the command `sudo docker-compose up -d`
 - This will create docker containers for SWAG, Bookstack and mariaDB
