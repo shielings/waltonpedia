@@ -6,7 +6,7 @@
 
 
 ### What is this?
-This is a proposed trial of a wiki to gather and serve the information needed for doctors at The Walton Centre to get work done, similar to a junior doctor's handbook. The website is up and running as of July 2022.
+This is a proposed trial of a wiki to gather and serve the information needed for doctors at The Walton Centre to get work done, similar to a junior doctor's handbook.
 
 ### Why?
 Doctors working in neurology require information and guidance on many clinical and administrative tasks. Neurological tests, treatments and procedures can be complicated to organise because they involve external hospitals and labs. The methods often change and can be hard to keep track of. The information required to manage these is split between the traditional means of clinical handover - intranet, emails, pinboards and word-of-mouth. Other information, including teaching schedules, specialist rotas and clinic guides is also distributed using these varying means. It can be daunting for a new junior doctor to assimilate all of this information.
