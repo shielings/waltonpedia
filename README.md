@@ -49,7 +49,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 
 `July 2023` Assess impact formally and see if the service is worth continuing
 
-`Later` Provide content for neurology medical students, consultants and also junior doctors at referring hospitals.
+`Later` Provide content for medical students, consultants and also junior doctors at referring hospitals.
 
 ## Technical details
 
