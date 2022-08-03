@@ -4,15 +4,15 @@
 
 ![alt-text](screenshot2.png?raw=true)
 
-### Why?
-Junior doctors working in neurology require information and guidance on many clinical and administrative tasks. Neurological tests, treatments and procedures can be complicated to organise because they involve external hospitals and labs. The methods often change and can be hard to keep track of. The information required to manage these is split between the traditional means of clinical handover - intranet, emails, pinboards and word-of-mouth. It can be daunting for a new junior doctor to assimilate all of this information.
 
-Teaching schedules, specialist rotas about specific firms and clinics that are distributed adhoc via email. These could also benfit from consolidation into a central repository.
+### What is this?
+This is a proposed trial use of a wiki to gather and serve the information needed for doctors at The Walton Centre to get work done, similar to a junior doctor's handbook.
+
+### Why?
+Doctors working in neurology require information and guidance on many clinical and administrative tasks. Neurological tests, treatments and procedures can be complicated to organise because they involve external hospitals and labs. The methods often change and can be hard to keep track of. The information required to manage these is split between the traditional means of clinical handover - intranet, emails, pinboards and word-of-mouth. Other information, including teaching schedules, specialist rotas and clinic guides is also distributed using these varying means. It can be daunting for a new junior doctor to assimilate all of this information.
 
 ### Our solution
-A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by its users. It can be hosted on the open internet with certain privileges (editing or viewing sensitive information) being locked behind a login requiring a Walton Centre email address.
-
-This is not a replacement for any of the previous ways of passing on information. They will all work together. For example, the intranet should still be used to access formal guidelines, but you may need to ask someone how to find it. You may need an email to remind you to sign up for grand round on the wiki.
+A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by its users. It can be hosted on the open internet with certain privileges (editing or viewing sensitive information) being locked behind a login requiring a Walton Centre email address. We propose such a wiki, hosted and used by the medical staff. This will make it easier to disseminate, update and find information.
 
 ### What makes this better than the intranet, emails etc...?
 ![alt-text](Picture2.png?raw=true)
@@ -40,6 +40,25 @@ This is not a replacement for any of the previous ways of passing on information
 ✅Permissive robots.txt
 
 ⬜Analytics server with public access to usage data
+
+### Caveats and clinical governance
+
+- This wiki will not hold any patient identifying data at all. It's primary purpose is administrative help. It can therefore be hosted outside of the NHS.
+- There should be training and regular reminders to staff to understand that this is the equivalent of a printed junior doctors handbook written by their peers. It does not constitute official Walton Centre policies and procedures, which must be consulted separately
+- This is not a replacement for any of the previous ways of passing on information. They will all work together. For example, the intranet should still be used to access a formal guideline, but you may need to ask someone verbally how to find it. You may need an email to remind you to sign up for a grand round slot on the wiki. You might use the wiki to quickly look up a radiologist's phone number whilst organising a thrombectomy.
+- New and updated content will be reviewed by other editors to ensure it is accurate and clear
+- Senior approval will be sought for every change to this service
+
+### Proposed next steps
+`August 2022` Discuss with seniors to see if a limited trial can be started. Start with interested neurology registrars.
+
+`November 2022` Open up access to selected SHOs with a training session on what Waltonpedia is (and isn't!)
+
+`February 2023` Open up to all Walton neurology SHOs and neurology registrars
+
+`July 2023` Assess impact formally and see if the service is worth continuing
+
+`Later` Provide content for neurology medical students, consultants and also junior doctors at referring hospitals.
 
 ### How can I recreate this?
 In case of a problem with Waltonpedia or staff changes, the system can be recreated with the following steps:
