@@ -77,9 +77,9 @@ In case of a problem with Waltonpedia or staff changes, the system can be recrea
 - Point the domain name [walton.wiki](https://walton.wiki) (in joint ownership between the following people...) to your public ip with ports 80 and 443 forwarded to your server
 
 ### Licensing
-This code is licensed under the GNU GPLv3
+This code is licensed under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 We propose any contributed wiki content to be licensed under [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/)
 
 ### Acknowledgements
 
-Thank you to the contributors of Bookstack, linuxserver.io for SWAG, LetsEncrypt
+Thank you to the contributors of Bookstack, linuxserver.io and LetsEncrypt
