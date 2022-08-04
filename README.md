@@ -34,7 +34,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website that can be edited by 
 
 ### Caveats and clinical governance
 
-- This wiki will not hold any patient identifying data at all. It's primary purpose is administrative help. It can therefore be hosted outside of the NHS.
+- This wiki will not hold any patient identifying data at all. Its primary purpose is administrative help. It can therefore be hosted outside of the NHS.
 - There should be training and regular reminders to staff to understand that this is the equivalent of a printed junior doctors handbook written by their peers. It does not constitute official Walton Centre policies and procedures, which must be consulted separately
 - This is not a replacement for any of the previous ways of passing on information. They will all work together. For example, the intranet should still be used to access a formal guideline, but you may need to ask someone verbally how to find it. You may need an email to remind you to sign up for a grand round slot on the wiki. You might use the wiki to quickly look up a radiologist's phone number whilst organising a thrombectomy.
 - New and updated content will be reviewed by other editors to ensure it is accurate and clear
